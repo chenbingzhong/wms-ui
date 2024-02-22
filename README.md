@@ -12,8 +12,8 @@ pnpm dev
 
 ```bash
 # 构建测试环境
-npm run build:stage
+pnpm build:stage
 
 # 构建生产环境
-npm run build:prod
+pnpm build:prod
 ```
